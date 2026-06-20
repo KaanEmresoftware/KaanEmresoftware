@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://caps.kirulab.com/p/github-banner.png" width="100%" alt="Banner" />
-  
   <h1>Merhaba, ben Kaan 👋</h1>
   
-  <h3>Yazılım Geliştirici & Siber Güvenlik Analisti</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Yazılım_Geliştirici-Siber_Güvenlik_Analisti-8E0022.svg?style=for-the-badge&logo=adguard&logoColor=white" alt="Kaan Atmaca" />
+  </p>
 </div>
 
 ---
